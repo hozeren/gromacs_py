@@ -1,5 +1,5 @@
-.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1455734.svg
-   :target: https://doi.org/10.5281/zenodo.1455734
+.. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.3168901.svg
+   :target: https://doi.org/10.5281/zenodo.3168901	
 
 .. image:: https://readthedocs.org/projects/gromacs-py/badge/?version=latest
    :target: https://gromacs-py.readthedocs.io/en/latest/?badge=latest
